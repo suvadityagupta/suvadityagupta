@@ -1,4 +1,4 @@
-# 💫 About Me:
+#
 Hi, I am Suvaditya Gupta, an aspiring Java Full Stack Developer, proficient in Java fundamentals. Eager to master both front-end and back-end technologies and frameworks like React and Spring, with a keen eye for detail and a commitment to writing clean, efficient code and on a dedicated path of growth, ready to tackle new challenges and contribute to the exciting world of full-stack development.
 
 
