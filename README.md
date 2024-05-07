@@ -20,8 +20,8 @@ Hi, I am Suvaditya Gupta, an aspiring Java Full Stack Developer, proficient in J
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!--### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
 
 ---
